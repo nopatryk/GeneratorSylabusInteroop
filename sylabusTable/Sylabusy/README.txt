@@ -1,0 +1,1 @@
+﻿Proszę nie usuwać katalogu "Sylabusy", gdyż wygenerowane sylabusy zapisują sie właśnie w nim, jeśli usuniesz katalog program nie będzie działał poprawnie.
