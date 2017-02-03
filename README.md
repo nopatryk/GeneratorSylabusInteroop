@@ -8,3 +8,7 @@ Program w trakcie tworzenia na rzecz pracy inżynierskiej. Program generujący d
 Program cały czas jest w trakcie tworzenia, dlatego z góry przepraszam, bo istnieje możliwość, że ta wersja jest nieaktualna...
 
 Niedługo wrzuce film obrazujący użytkowanie programu, w folderze dostępny jest także przykładowy wygenerowany dokument sylabus
+
+#### Wymagania
+- Aplikacja WORD z pakietu Office
+- .NET Franework 4.5+
